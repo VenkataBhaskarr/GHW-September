@@ -1,4 +1,4 @@
-#This Repository is about creating a chrome extension `MY MOTIVATOR`
+# This Repository is about creating a chrome extension `MY MOTIVATOR`
 
 At times we often feel low or depressed when our productivity of that day is not very good so this extension gives us motivation by showing a motivational quote every single tome we use that extension.
 
